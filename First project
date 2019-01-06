@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  project-folder/
+| about.html
+| contact.html
+   <a href="https://www.wikipedia.org/"
+    target="_blank"><img src="#" alt="A red prickly pear fruit"/>This Is A Link To Wikipedia</a>
+| index.html
+  <!-- <p> Test Code </p> -->
+  <body>
+  <title> Brown Bears </title>
+ <a href="https://www.wikipedia.org/"
+    target="_blank"><img src="#" alt="A red prickly pear fruit"/>This Is A Link To Wikipedia</a>
+  <p id="top">This is the top of the page!</p>
+        <p>Paragraph 1</p>
+      <div>
+    <p>Paragraph 2</p>
+   </div>
+     <a href="https://www.wikipedia.org/"
+    target="_blank"><img src="#" alt="A red prickly pear fruit"/>This Is A Link To Wikipedia</a>
+    <h1 id="bottom">This is the bottom! </h1>
+  </body>
+  </head>  
+</html>
