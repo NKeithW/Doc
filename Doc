@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+ <!--css/js files are also supported, you can
+ refer them using relative path.
+ Save all files first, including html file
+ to use this feature. -->
+
+
+    <style type="text/css">
+    h1{
+    color: #999999;
+    ;
+    }
+  <style type="text/css"
+   h2{
+       color: #000000
+       ;
+   }
+  <style type="text/css"
+   h3{
+       color: #789012
+       ;
+   }
+    body{
+    background-color: #444444;
+    }
+    .dcoder{
+        color: #444444;
+    }
+    </style>
+</head>
+<body>
+
+    <h1>
+        Win count.
+    </h1>
+
+    <h2>
+       Solo 0
+    </h2>
+
+    <h3>
+        Dous 0 
+    </h3>
+
+    <h4>
+        Squad 2
+    </h4>
+ </body>
+</html>
